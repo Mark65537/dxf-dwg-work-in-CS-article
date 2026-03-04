@@ -1,3 +1,4 @@
+перемещен в [My-articles-and-reviews](https://github.com/Mark65537/My-articles-and-reviews)
 # **Работа с dxf/dwg файлами C\#**
 
 ## **Введение**
